@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 --My name is Brett (he/him/his)<br />
---I'm a recent Prime Digital Academy grad
---I love cycling and comedy
---I'm currently seeking a new opportunities as a developer
---I'm the worlds most optimized dishwashing machine loader
---Strange fact about me:  I actually enjoy public speaking
---Stranger fact about me:  I actually think loading a dishwasher can be a flex
+--I'm a recent Prime Digital Academy grad<br />
+--I love cycling and comedy<br />
+--I'm currently seeking a new opportunities as a developer<br />
+--I'm the worlds most optimized dishwashing machine loader<br />
+--Strange fact about me:  I actually enjoy public speaking<br />
+--Stranger fact about me:  I actually think loading a dishwasher can be a flex<br />
