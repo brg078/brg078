@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---My name is Brett (he/him/his)
+--My name is Brett (he/him/his)<br />
 --I'm a recent Prime Digital Academy grad
 --I love cycling and comedy
 --I'm currently seeking a new opportunities as a developer
